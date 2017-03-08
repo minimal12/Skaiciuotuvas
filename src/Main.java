@@ -2,7 +2,8 @@
 public class Main {
 
 	public static void main(String[] args) {
-		//testing
+		SimpleCalculations sc = new SimpleCalculations();
+		sc.calculate();
 	}
 
 }
