@@ -21,6 +21,6 @@ public class Trigonometrija {
 	}
 	
 	public void ctg(double ct) {
-		System.out.println("Skaiciaus " + ct + " cotangentas = " + 1.0 / Math.tan(ct));
+		System.out.println("Skaiciaus  " + ct + " cotangentas = " + 1.0 / Math.tan(ct));
 	}
 }

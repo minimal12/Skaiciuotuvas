@@ -12,7 +12,7 @@ public class Trigonometrijos_Skaiciavimas {
 			String a = reader.nextLine();
 			switch(a) {
 			case "1":
-				System.out.println("Iveskite skaiciu:");
+				System.out.println("Iveskite skaiciu: ");
 				double s = Double.parseDouble(reader.nextLine());
 				trig.sin(s);
 				break;
